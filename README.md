@@ -1,4 +1,3 @@
-# React_Beginner
+# React_Native
 
-1. React
-2. React_native
+1. React_native
